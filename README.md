@@ -15,7 +15,7 @@ npm start -s
 |   |   └── home.js   * 示例handlers
 |   └── index.js      * api 路由配置
 ├── config/
-|   ├── manifest.js   * 
+|   ├── manifest.js   * hapijs的配置
     ├── config.js     * mongo配置
 |   └── secret.js     * 数据库密码
 ├── models/
